@@ -17,8 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    //第一个btn
-    UIButton * btn = [UIButton buttonWithType:UIButtonTypeCustom];
+    //第1个btn
+    UIButton * btn1 = [UIButton buttonWithType:UIButtonTypeCustom];
+    //第2个btn
+    UIButton * btn2 = [UIButton buttonWithType:UIButtonTypeCustom];
 }
 
 
