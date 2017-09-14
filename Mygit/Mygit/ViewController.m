@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     //第一个btn
     UIButton * btn = [UIButton buttonWithType:UIButtonTypeCustom];
+    //第二个lable
+    UILabel * lable  = [[UILabel alloc]init];
 }
 
 
