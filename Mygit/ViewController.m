@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     UILabel * lab1 = [[UILabel alloc]init];
+    
+     UILabel * lab2 = [[UILabel alloc]init];
 }
 
 - (void)didReceiveMemoryWarning {
