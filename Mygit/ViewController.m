@@ -21,6 +21,7 @@
     
      UILabel * lab2 = [[UILabel alloc]init];
     UILabel * lab3 = [[UILabel alloc]init];
+    UILabel * lab4 = [[UILabel alloc]init];
 }
 
 - (void)didReceiveMemoryWarning {
