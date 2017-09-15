@@ -23,6 +23,9 @@
     UILabel * lab4 = [[UILabel alloc]init];
     UILabel * lab5 = [[UILabel alloc]init];
     UILabel * lab6 = [[UILabel alloc]init];
+    
+    
+    UIView * view1 = [[UIView alloc]init];
 }
 
 - (void)didReceiveMemoryWarning {
