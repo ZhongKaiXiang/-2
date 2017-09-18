@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#define xzk @"xzk"
 @interface ViewController ()
 
 @end
